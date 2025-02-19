@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lilianevale/coretec.git/static/css/main.4483ff6d.css",
-    "main.js": "/lilianevale/coretec.git/static/js/main.9859b26d.js",
+    "main.js": "/lilianevale/coretec.git/static/js/main.4ef5be79.js",
     "static/media/fa-solid-900.svg": "/lilianevale/coretec.git/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/lilianevale/coretec.git/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/lilianevale/coretec.git/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -45,10 +45,10 @@
     "static/media/fa-regular-400.woff2": "/lilianevale/coretec.git/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/lilianevale/coretec.git/index.html",
     "main.4483ff6d.css.map": "/lilianevale/coretec.git/static/css/main.4483ff6d.css.map",
-    "main.9859b26d.js.map": "/lilianevale/coretec.git/static/js/main.9859b26d.js.map"
+    "main.4ef5be79.js.map": "/lilianevale/coretec.git/static/js/main.4ef5be79.js.map"
   },
   "entrypoints": [
     "static/css/main.4483ff6d.css",
-    "static/js/main.9859b26d.js"
+    "static/js/main.4ef5be79.js"
   ]
 }
