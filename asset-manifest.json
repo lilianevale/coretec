@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coretec/static/css/main.bcde8258.css",
-    "main.js": "/coretec/static/js/main.3cba60ad.js",
+    "main.js": "/coretec/static/js/main.c940b192.js",
     "static/media/fa-solid-900.svg": "/coretec/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/coretec/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/coretec/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -45,10 +45,10 @@
     "static/media/fa-regular-400.woff2": "/coretec/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/coretec/index.html",
     "main.bcde8258.css.map": "/coretec/static/css/main.bcde8258.css.map",
-    "main.3cba60ad.js.map": "/coretec/static/js/main.3cba60ad.js.map"
+    "main.c940b192.js.map": "/coretec/static/js/main.c940b192.js.map"
   },
   "entrypoints": [
     "static/css/main.bcde8258.css",
-    "static/js/main.3cba60ad.js"
+    "static/js/main.c940b192.js"
   ]
 }
