@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/coretec/static/css/main.bcde8258.css",
-    "main.js": "/coretec/static/js/main.3cba60ad.js",
+    "main.js": "/coretec/static/js/main.8a6805b1.js",
     "static/media/fa-solid-900.svg": "/coretec/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/coretec/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/fa-solid-900.eot": "/coretec/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
@@ -11,9 +11,9 @@
     "static/media/fa-brands-400.ttf": "/coretec/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
     "static/media/fa-solid-900.woff": "/coretec/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
     "static/media/fa-brands-400.woff": "/coretec/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
-    "static/media/teste.png": "/coretec/static/media/teste.748e5bd072c90672f963.png",
     "static/media/form9.png": "/coretec/static/media/form9.7ed5dd714759c4671a6b.png",
     "static/media/fa-solid-900.woff2": "/coretec/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/teste.png": "/coretec/static/media/teste.93a9aa6d4e322eb84a1b.png",
     "static/media/fa-brands-400.woff2": "/coretec/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
     "static/media/form22.png": "/coretec/static/media/form22.6797d66c16a3c47fc50f.png",
     "static/media/fig2.png": "/coretec/static/media/fig2.3231272ef51793a72441.png",
@@ -45,10 +45,10 @@
     "static/media/fa-regular-400.woff2": "/coretec/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/coretec/index.html",
     "main.bcde8258.css.map": "/coretec/static/css/main.bcde8258.css.map",
-    "main.3cba60ad.js.map": "/coretec/static/js/main.3cba60ad.js.map"
+    "main.8a6805b1.js.map": "/coretec/static/js/main.8a6805b1.js.map"
   },
   "entrypoints": [
     "static/css/main.bcde8258.css",
-    "static/js/main.3cba60ad.js"
+    "static/js/main.8a6805b1.js"
   ]
 }
